@@ -32,8 +32,8 @@
   </div>
 
    <h1> Thank you, Happy Learning!!!! </h1>
-   <h1> The Force Will be With You, Always </h1>
-   <img src="Obiwan1.jpg" alt="Italian Trulli">
+   <h1> The Dark Side of the Force is a Pathway to Many abilities, some considered to be unNATural </h1>
+   <img src="palp_trustme.jpg.jpg" alt="Italian Trulli">
 
   
 </form>
