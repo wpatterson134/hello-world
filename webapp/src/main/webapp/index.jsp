@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thank you, Happy Learning!!!! </h1>
-   <h1> The Dark Side of the Force is a Pathway to Many abilities, some considered to be unNATural </h1>
+   <h1> YOU WEre the chosen one </h1>
    <img src="wp4190035.jpg" alt="Italian Trulli">
 
   
