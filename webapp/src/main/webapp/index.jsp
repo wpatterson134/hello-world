@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thank you, Happy Learning!!!! </h1>
-   <h1> Chaos... isn't a pit. Chaos is a LADDER </h1>
+   <h1> Chaos isn't a pit. Chaos is a LADDER </h1>
    <img src="wp4190035.jpg" alt="Italian Trulli">
 
   
