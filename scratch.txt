@@ -1,0 +1,6 @@
+eksctl create cluster --name westeros \
+--region us-east-1 \
+--node-type t2.small \
+--nodes-min 2 \
+--nodes-max 2 \
+--zones us-east-1a,us-east-1b
